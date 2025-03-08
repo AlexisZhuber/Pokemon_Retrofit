@@ -47,9 +47,5 @@ Gson – For automatic JSON serialization and deserialization.
 Kotlin Coroutines – For asynchronous programming.
 Jetpack Compose & Material3 – For modern UI development.
 
-License
-
-[Insert License Information]
-
 Acknowledgments
 Special thanks to PokeAPI for providing Pokémon data.
